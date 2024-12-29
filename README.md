@@ -15,3 +15,8 @@ Started New Jurney for DSA with Java.
 * If Else
 * Else if
 * Switch Case
+
+**Day - 3**
+* For Loop
+* while Loop
+* Do While Loop
